@@ -1,17 +1,18 @@
 # Raved
 Raved est une application pour Android/iOS, permettant d'enregistrer des audios, de les sauvegarder, de les écouter, de les supprimer, de les télécharger et de les importer.  
-Il sera possible de se connecter sur un serveur Python fournissant des modèles de conversion pour encoder les audios enregistrés dans un style tel que : Jazz, Darbouka, Parole, Chats, Chiens...  
-Il sera également possible de gérer les audios convertis  
-  
+- Il sera possible de se connecter sur un serveur Python fournissant des modèles de conversion pour encoder les audios enregistrés dans un style tel que : Jazz, Darbouka, Parole, Chats, Chiens...  
+- Il sera également possible de gérer les audios convertis
+
+## Screenshots
+Testé sur : Samsung A25, Samsung S8, Xiaomi 13T  
 ![Screenshot_20240625_215939_Expo_Go-imageonline co-merged](https://github.com/teddyfresnes/Raved/assets/80900011/691a2dd9-47fa-43ad-8837-b6b15d103488)
 ![11-imageonline co-merged](https://github.com/teddyfresnes/Raved/assets/80900011/57baeb22-28db-4ef7-80c9-cc1120881ac6)
-Testé sur : Samsung A25, Samsung S8, Xiaomi 13T
 
 ## Installation
 ![frame(1)](https://github.com/teddyfresnes/Raved/assets/80900011/025110df-0401-4d68-844d-9a9225011361)
 
 ## Structure
-##### App.js
+###### App.js
 Structure des tabs et de la navigation
 ##### store.js
 Gestion des actions redux, sauvegarde en mémoire des données
