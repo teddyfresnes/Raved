@@ -4,9 +4,8 @@ Il sera possible de se connecter sur un serveur Python fournissant des modèles 
 Il sera également possible de gérer les audios convertis  
   
 Testé sur : Samsung A25, Samsung S8, Xiaomi 13T
-
-  
-
+![Screenshot_20240625_215939_Expo_Go-imageonline co-merged](https://github.com/teddyfresnes/Raved/assets/80900011/691a2dd9-47fa-43ad-8837-b6b15d103488)
+![11-imageonline co-merged](https://github.com/teddyfresnes/Raved/assets/80900011/57baeb22-28db-4ef7-80c9-cc1120881ac6)
 
 ## Structure
 ##### App.js
