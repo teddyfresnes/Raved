@@ -3,7 +3,8 @@ Raved est une application pour Android/iOS, permettant d'enregistrer des audios,
 Il sera possible de se connecter sur un serveur Python fournissant des modèles de conversion pour encoder les audios enregistrés dans un style tel que : Jazz, Darbouka, Parole, Chats, Chiens...  
 Il sera également possible de gérer les audios convertis  
   
-![frame(1)](https://github.com/teddyfresnes/Raved/assets/80900011/565838ec-18ce-4172-b1f5-e66a100501fb)
+![frame(1)](https://github.com/teddyfresnes/Raved/assets/80900011/025110df-0401-4d68-844d-9a9225011361)
+
 
 
 
