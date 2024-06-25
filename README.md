@@ -14,23 +14,23 @@ Testé sur : Samsung A25, Samsung S8, Xiaomi 13T
 ## Structure
 ###### App.js
 Structure des tabs et de la navigation
-##### store.js
+###### store.js
 Gestion des actions redux, sauvegarde en mémoire des données
 ##### ConnectScreen.js
 Connexion au serveur Python fournissant les modèles, sauvegarde et connexion rapide aux serveurs précédents, feedback en cas de connexion échouée  
 Possibilité de se connecter sans serveur (mais il sera donc impossible d'accéder au traitement audio via les modèles)  
-##### Tab1Screen.js
+###### Tab1Screen.js
 Enregistrement audio, lecture, suppression et sauvegarde avec un nom personnalisé de l'aperçu  
-##### RecordingGraph.js
+###### RecordingGraph.js
 Affichage en temps réel du son enregistré une courbe vectorielle pour un feedback de l'enregistrement  
-##### Tab2Screen.js
+###### Tab2Screen.js
 Affichage du menu des sous-tab
-##### SousTab1Screen.js
+###### SousTab1Screen.js
 Liste des audios enregistrés sauvegardés en mémoire, possibilité d'écouter, de supprimer ou de télécharger l'audio sur le téléphone  
 Bouton de sélection de l'audio à convertir dans la SousTab2, possibilité d'importer un fichier depuis le téléphone  
-##### SousTab2Screen.js
+###### SousTab2Screen.js
 Import des modèles du serveur si existant, vérification qu'un enregistrement a été selectionné, transfert au serveur et affichage des aperçus, possibilité de sauvegarde l'audio converti en mémoire  
-##### LoadingOverlay.js
+###### LoadingOverlay.js
 Affichage d'un écran de chargement pour informer l'utilisateur que le serveur traite l'audio  
-##### SousTab3Screen.js
+###### SousTab3Screen.js
 Liste des audios convertis sauvegardés en mémoire, possibilité d'écouter, de supprimer ou de télécharger l'audio sur le téléphone  
