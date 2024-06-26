@@ -14,7 +14,7 @@ Testé sur : Samsung A25, Samsung S8, Xiaomi 13T
 ## Structure
 ###### App.js
 Structure des tabs et de la navigation
-###### store.js
+##### store.js
 Gestion des actions redux, sauvegarde en mémoire des données
 ##### ConnectScreen.js
 Connexion au serveur Python fournissant les modèles, sauvegarde et connexion rapide aux serveurs précédents, feedback en cas de connexion échouée  
